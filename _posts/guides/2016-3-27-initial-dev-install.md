@@ -10,6 +10,18 @@ shortDescription: A guide on getting started with a fresh Elementary OS or Ubunt
 
 A simple Readme.md on my personal instructions on how to set up an Elementary OS laptop with modern Web Development in mind. This is part One of a web development install series.
 
+# These Guides Are Useful, but could be done better
+
+I have recently discovered/understood [Vagrant](https://www.vagrantup.com/docs/getting-started/) which allows you to create virtual development environments. Because of this, if anything breaks, you can easily destroy the environment, and start over, without having to re-install your entire machine from scratch. It's awesome, and also allows for sharing your vagrant box to others through a URL, and all sorts of cool features! I highly reccomend that you take the time to learn it, or take a look at it!
+
+[I have a repo with all of my vagrant files](https://github.com/torch2424/vagrantBoxes), so if you would like an easy way to make this environment in vagrant, I currently have it under the folder "WebDevJSRuby", which will give you an up-to-date version of this guide.
+
+If you prefer doing it yourself, the original guide is below...
+
+Thank you!
+
+---
+
 # This is simply a list of terminal Commands for Ubuntu/Elementary
 
 ## Initial Upgrade
