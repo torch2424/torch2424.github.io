@@ -1,6 +1,9 @@
-![Seattle Panorama UW](https://files.aaronthedev.com/$/sefug)
+---
+layout: post
+title: I Really Enjoyed My Internship At Amazon...
+---
 
-# I Really Enjoyed My Internship At Amazon...
+![Seattle Panorama UW](https://files.aaronthedev.com/$/6k8ef)
 
 I am sure a lot of my close buddies, family, and potential interns will be asking me, how was it to intern at Amazon. Honestly, it was amazing, and I would suggest it to any young developer out there. It's really eye-opening, and really puts your own skill into perspective, along with all kinds of really amazing things. Here is my Amazon internship experience. Some things may be vague however, since HR couldn't answer some of my questions before I left.
 
