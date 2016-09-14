@@ -80,7 +80,7 @@ I definitely feel like I grew exponentially as an developer, and my manager was 
 
 * Lack of passion for code. I definitely felt like most of the developers at Amazon see code as a way to make money. A lot of the developers did not pursue any kind of code, or keep up with the development community. This is understandable because of non-competition agreements, but there are definitely ways to get a personal project approved, and mine only took a few days. It was quite sad to see, as I am very passionate about code, and I enjoy it very much. And, when I would ask someone if they keep up with code or communities outside of work, the strange looks of, "Why would I work outside of work", was quite off-putting. Or, the "Code takes me the least effort to make the most money" was kinda of lame to see too. And to be honest, you could see this in a lot of the code quality at Amazon.
 
-* Corporate Politics. There is a lot of arguing, and seniority that kinda ominously floats around Amazon. Though, I am sure this is at every company, I did not like how this was. I don't enjoy arguing at all honestly, and when people would shut me down because I was the intern, but then find out later I was right, it wasn't really even that satisfying. Also, because of this,
+* Corporate Politics. There is a lot of arguing, and seniority that kinda ominously floats around Amazon. Though, I am sure this is at every company, I did not like how this was. I don't enjoy arguing at all honestly, and when people would shut me down because I was the intern, but then find out later I was right, it wasn't really even that satisfying.
 
 * Seattle (I'll explain more in living in Seattle).
 
